@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Outfit', sans-serif;
+    --font-body: 'Plus Jakarta Sans', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: #070709;
+    color: #f1f5f9;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Custom scrollbar for mobile sleekness */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(10, 10, 15, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(168, 85, 247, 0.3);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(168, 85, 247, 0.6);
+}
+
+/* Glassmorphism & Neon Glow utilities */
+.glass-panel {
+  background: rgba(18, 18, 24, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-purple {
+  background: linear-gradient(135deg, rgba(28, 18, 45, 0.8) 0%, rgba(15, 12, 25, 0.9) 100%);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+}
+
+.purple-glow {
+  box-shadow: 0 0 25px -5px rgba(168, 85, 247, 0.35);
+}
+
+.purple-glow-sm {
+  box-shadow: 0 0 15px -3px rgba(168, 85, 247, 0.25);
+}
+
+/* Text glow */
+.text-glow-purple {
+  text-shadow: 0 0 12px rgba(192, 132, 252, 0.5);
+}
+
+/* RP Level Badge style matching Grand Mobile RP in screenshots */
+.rp-health-bar {
+  background: linear-gradient(90deg, #ef4444 0%, #dc2626 100%);
+}
+.rp-armor-bar {
+  background: linear-gradient(90deg, #3b82f6 0%, #2563eb 100%);
+}

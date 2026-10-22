@@ -1,0 +1,299 @@
+{
+  "users": [
+    {
+      "id": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "email": "founder@stancecrewsa.local",
+      "passwordHash": "SBZ 12345",
+      "role": "founder",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "bio": "Founder & Lead Director — STANCE CREW SA. Built on the same road.",
+      "rpLevel": 50,
+      "crewTag": "STANCE CREW S.A",
+      "status": "active",
+      "hasSetUsername": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "lastLoginAt": "2026-10-21T17:30:00Z"
+    },
+    {
+      "id": "usr_mod_enforcer",
+      "username": "StanceEnforcer",
+      "email": "moderator@stancecrewsa.local",
+      "passwordHash": "crewpass123",
+      "role": "moderator",
+      "avatarUrl": "/assets/aistudio/0b8a1612190a1618726efdac71da0735_b8fdc318.webp",
+      "bio": "Road Enforcer & Convoy Lead. Keeping the stance clean and the road protected.",
+      "rpLevel": 42,
+      "crewTag": "STANCE CREW S.A",
+      "status": "active",
+      "hasSetUsername": true,
+      "createdAt": "2026-02-15T10:00:00Z",
+      "lastLoginAt": "2026-10-21T16:20:00Z"
+    },
+    {
+      "id": "usr_dev_tuner",
+      "username": "ApexTuner",
+      "email": "dev@stancecrewsa.local",
+      "passwordHash": "crewpass123",
+      "role": "developer",
+      "avatarUrl": "/assets/aistudio/2b1ab5be479887b6cf6be0d0d53195da_96ced120.webp",
+      "bio": "Mechanical tuning & audio acoustics specialist. STANCE CREW SA.",
+      "rpLevel": 30,
+      "crewTag": "STANCE CREW S.A",
+      "status": "active",
+      "hasSetUsername": true,
+      "createdAt": "2026-03-01T12:00:00Z",
+      "lastLoginAt": "2026-10-21T15:10:00Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "tok_usr_founder_slimrt03_1792631364008",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:09:24.008Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792631374816",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:09:34.816Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792631385013",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:09:45.013Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792631388810",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:09:48.810Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792631391942",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:09:51.942Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792631400779",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:10:00.779Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792632599526",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:29:59.526Z"
+    },
+    {
+      "token": "tok_usr_founder_slimrt03_1792632610319",
+      "userId": "usr_founder_slimrt03",
+      "expiresAt": "2026-11-21T01:30:10.319Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal_1",
+      "userId": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "title": "Golden Hour Rooftop Meet",
+      "collection": "Official Crew Lineups",
+      "caption": "The original 5-director squad overlooking the central highway.",
+      "story": "Taken during the sunset convoy formation. Stance crew squad holding down the perimeter in uniform black trench coats.",
+      "mediaType": "image",
+      "mediaUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "thumbnailUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "likesCount": 165,
+      "createdAt": "2026-10-18T18:30:00Z",
+      "savedBy": [
+        "usr_founder_slimrt03"
+      ]
+    },
+    {
+      "id": "gal_2",
+      "userId": "usr_mod_enforcer",
+      "username": "StanceEnforcer",
+      "avatarUrl": "/assets/aistudio/0b8a1612190a1618726efdac71da0735_b8fdc318.webp",
+      "title": "VIP Boutique Syndicate",
+      "collection": "Roleplay Operations",
+      "caption": "Tailored black suits and custom shades before entering the high-stakes negotiation.",
+      "story": "Squad briefing in central district to dress the crew for the evening cartel roleplay meet.",
+      "mediaType": "image",
+      "mediaUrl": "/assets/aistudio/0b8a1612190a1618726efdac71da0735_b8fdc318.webp",
+      "thumbnailUrl": "/assets/aistudio/0b8a1612190a1618726efdac71da0735_b8fdc318.webp",
+      "likesCount": 110,
+      "createdAt": "2026-10-19T14:15:00Z",
+      "savedBy": []
+    },
+    {
+      "id": "gal_3",
+      "userId": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "title": "Midnight Stance Patrol",
+      "collection": "Midnight Street Runs",
+      "caption": "Squad members with custom respirators next to the slammed sports coupe.",
+      "story": "Underneath the neon amber street lamps, testing the newly dropped hydraulic fitment.",
+      "mediaType": "image",
+      "mediaUrl": "/assets/aistudio/08867c2660c06203c605b1b76795f14a_e2fe85b4.webp",
+      "thumbnailUrl": "/assets/aistudio/08867c2660c06203c605b1b76795f14a_e2fe85b4.webp",
+      "likesCount": 188,
+      "createdAt": "2026-10-20T21:45:00Z",
+      "savedBy": [
+        "usr_founder_slimrt03"
+      ]
+    },
+    {
+      "id": "gal_4",
+      "userId": "usr_dev_tuner",
+      "username": "ApexTuner",
+      "avatarUrl": "/assets/aistudio/2b1ab5be479887b6cf6be0d0d53195da_96ced120.webp",
+      "title": "Perque Tailored Fitting",
+      "collection": "Official Crew Lineups",
+      "caption": "Squad lineup showing custom black tie aesthetic with black and navy snapbacks.",
+      "story": "Detailed squad lineup before convoy roll-out.",
+      "mediaType": "image",
+      "mediaUrl": "/assets/aistudio/2b1ab5be479887b6cf6be0d0d53195da_96ced120.webp",
+      "thumbnailUrl": "/assets/aistudio/2b1ab5be479887b6cf6be0d0d53195da_96ced120.webp",
+      "likesCount": 92,
+      "createdAt": "2026-10-20T16:00:00Z",
+      "savedBy": []
+    },
+    {
+      "id": "gal_5",
+      "userId": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "title": "Grand Track Master Assembly",
+      "collection": "Championship Meets",
+      "caption": "Full director assembly at the raceway bridge. “Built on the same road.”",
+      "story": "Crew directors gathered at the high-speed ring overlooking the track.",
+      "mediaType": "image",
+      "mediaUrl": "/assets/aistudio/66d513f5ad18381aac9308323a9f72ba_a91c328f.webp",
+      "thumbnailUrl": "/assets/aistudio/66d513f5ad18381aac9308323a9f72ba_a91c328f.webp",
+      "likesCount": 245,
+      "createdAt": "2026-10-21T10:00:00Z",
+      "savedBy": [
+        "usr_founder_slimrt03"
+      ]
+    },
+    {
+      "id": "gal_6",
+      "userId": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "title": "Cinematic Low Angle Convoy",
+      "collection": "Midnight Street Runs",
+      "caption": "Dramatic stance angle under dusk skies.",
+      "story": "Low-angle capture highlighting the ground clearance and crew formation.",
+      "mediaType": "image",
+      "mediaUrl": "/assets/aistudio/654b75069141660c2b50fad36d510d25_21f92912.webp",
+      "thumbnailUrl": "/assets/aistudio/654b75069141660c2b50fad36d510d25_21f92912.webp",
+      "likesCount": 130,
+      "createdAt": "2026-10-21T13:20:00Z",
+      "savedBy": []
+    }
+  ],
+  "prompts": [],
+  "messages": [
+    {
+      "id": "msg_1",
+      "userId": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "role": "founder",
+      "text": "Welcome to the official STANCE CREW SA Family Chat! “Built on the same road.” Voice notes and comms are live. Keep personal info private — only what you post here is shared with the crew.",
+      "createdAt": "2026-10-21T16:00:00Z"
+    },
+    {
+      "id": "msg_2",
+      "userId": "usr_mod_enforcer",
+      "username": "StanceEnforcer",
+      "avatarUrl": "/assets/aistudio/0b8a1612190a1618726efdac71da0735_b8fdc318.webp",
+      "role": "moderator",
+      "text": "Convoy brief: Next server roll-out is at 20:00 SAST. Meet behind the VIP clothes store. Black suits mandatory.",
+      "createdAt": "2026-10-21T16:15:00Z"
+    },
+    {
+      "id": "msg_1792631385034",
+      "userId": "usr_founder_slimrt03",
+      "username": "SlimRt03",
+      "avatarUrl": "/assets/aistudio/8d43fe2c475b879ccb0535114bdaba1f_14b4f0f6.webp",
+      "role": "founder",
+      "text": "Camber tuned and air ride purged. Ready for the night meet.",
+      "createdAt": "2026-10-22T01:09:45.034Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1792632599544",
+      "actorId": "usr_founder_slimrt03",
+      "actorUsername": "SlimRt03",
+      "action": "USER_DELETED_PERMANENTLY",
+      "details": "Founder SlimRt03 completely deleted account @CamberGhost_SA and purged all associated data.",
+      "timestamp": "2026-10-22T01:29:59.544Z"
+    },
+    {
+      "id": "log_1792632591268",
+      "actorId": "usr_g_1792632585670_5ihv",
+      "actorUsername": "CamberGhost_SA",
+      "action": "USERNAME_VERIFIED",
+      "details": "Driver verified handle: @CamberGhost_SA (previously @ThiploDriver)",
+      "timestamp": "2026-10-22T01:29:51.268Z"
+    },
+    {
+      "id": "log_1792632585670",
+      "actorId": "usr_g_1792632585670_5ihv",
+      "actorUsername": "ThiploDriver",
+      "action": "GOOGLE_SIGN_IN",
+      "details": "New driver registered via Google Sign-In. Private email secured.",
+      "timestamp": "2026-10-22T01:29:45.670Z"
+    },
+    {
+      "id": "log_1792631400801",
+      "actorId": "usr_founder_slimrt03",
+      "actorUsername": "SlimRt03",
+      "action": "USER_DELETED_PERMANENTLY",
+      "details": "Founder SlimRt03 completely deleted account @StaticNightRider and purged all associated data.",
+      "timestamp": "2026-10-22T01:10:00.801Z"
+    },
+    {
+      "id": "log_1792631396304",
+      "actorId": "usr_1792631396276_ohho",
+      "actorUsername": "StaticNightRider",
+      "action": "USERNAME_VERIFIED",
+      "details": "Driver verified handle: @StaticNightRider (previously @Driver_yhxg6)",
+      "timestamp": "2026-10-22T01:09:56.304Z"
+    },
+    {
+      "id": "log_1792631391962",
+      "actorId": "usr_founder_slimrt03",
+      "actorUsername": "SlimRt03",
+      "action": "USER_UNBLOCKED",
+      "details": "Founder SlimRt03 unblocked @StanceEnforcer",
+      "timestamp": "2026-10-22T01:09:51.962Z"
+    },
+    {
+      "id": "log_1792631388831",
+      "actorId": "usr_founder_slimrt03",
+      "actorUsername": "SlimRt03",
+      "action": "USER_BLOCKED",
+      "details": "Founder SlimRt03 blocked @StanceEnforcer",
+      "timestamp": "2026-10-22T01:09:48.831Z"
+    },
+    {
+      "id": "log_init",
+      "actorId": "usr_founder_slimrt03",
+      "actorUsername": "SlimRt03",
+      "action": "SERVER_BOOTSTRAP",
+      "details": "STANCE CREW SA core system initialized. Founder SlimRt03 established.",
+      "timestamp": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "developerAccess": [],
+  "communityRules": [
+    "1. Loyalty to the crew: “Built on the same road.” Disrespect to family members results in immediate block or account deletion.",
+    "2. Personal privacy is absolute: Email addresses and private driver details are never exposed. What happens outside Family Chat remains strictly personal.",
+    "3. Voice note etiquette: Keep voice notes clear, audible, and respectful.",
+    "4. Stance pride: Post only authentic Grand Mobile RP captures and clean car photography.",
+    "5. Founder and Moderator directives must be followed during official roll-outs."
+  ]
+}

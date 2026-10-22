@@ -1,0 +1,11 @@
+{
+  "name": "STANCE CREW SA — Grand Mobile RP",
+  "description": "Premium Grand Mobile RP mobile app for STANCE CREW SA with private accounts, Family Chat with voice notes, Gallery & Archive, AI Video Studio, and Founder/Developer command hubs. Built on the same road.",
+  "requestFramePermissions": [
+    "android.permission.RECORD_AUDIO",
+    "android.permission.CAMERA",
+    "android.permission.READ_MEDIA_IMAGES",
+    "android.permission.READ_MEDIA_VIDEO"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
